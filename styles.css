@@ -1,0 +1,18 @@
+:root {
+  --navy: #111111;
+  --blue: #3554d1;
+  --cream: #ffffff;
+  --yellow: #d4f06a;
+  --sky: #3ea5db;
+  --bg: #ffffff;
+  --paper: #ffffff;
+  --ink: #111111;
+  --muted: #7a7a7a;
+  --line: #ececec;
+  --brand: #3554d1;
+  --brand-deep: #111111;
+  --danger: #e24b3d;
+  --shadow: 0 10px 28px rgba(17, 17, 17, 0.06);
+  --radius: 28px;
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+}
