@@ -1,2 +1,1 @@
-# gogo
-GOGO — kids class schedule
+GOGO - kids class schedule
